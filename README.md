@@ -1,16 +1,10 @@
-# flutter_complete_app
+# Complete Source Code
+Recipe App: https://buymeacoffee.com/wtfcode/e/363149
 
-A new Flutter project.
+# Recipe App
+In this Project, we'll walk you through creating a complete Flutter app from start to finish using Flutter Firebase and the Provider state management. We'll be building a fully functional recipe app that integrates Firebase as the backend for data storage and uses Provider to manage app state efficiently. This Flutter crash course is perfect for developers looking to understand how to build a Flutter app with a backend using Firebase and Provider for seamless state management. Whether you're a beginner or an experienced developer, this complete Flutter app project will guide you step-by-step through the development process, making it easy to build your own Flutter app with Firebase and Provider
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align=center> <img src='asset/image5.png' width='300'> <img src='asset/image2.png' width='300'> <img src='asset/image3.png' width='300'> <img src='asset/image4.png' width='300'> <img src='asset/image1.png' width='300'> <img src='asset/image6.png' width='300'>
+</div>
